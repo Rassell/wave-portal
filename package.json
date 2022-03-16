@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "hardhat test",
     "node": "hardhat node",
     "start": "hardhat run scripts/run.js",
     "deploy": "hardhat run scripts/deploy.js --network rinkeby"
