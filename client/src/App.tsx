@@ -2,8 +2,9 @@ import React, { useEffect, useState } from "react";
 import { ethers } from "ethers";
 
 import "./App.css";
+import WavePortal from "./assets/WavePortal.json";
 
-import { abi as contractABI } from "./assets/WavePortal.json";
+const contractABI = WavePortal.abi;
 const contractAddress = "0xc4f55d993BD92Fbd4a167F76E3236bA9ce8AB4DA";
 
 export default function App() {
