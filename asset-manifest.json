@@ -1,21 +1,13 @@
 {
   "files": {
-    "main.css": "/wave-portal/static/css/main.0e632e19.chunk.css",
-    "main.js": "/wave-portal/static/js/main.82711927.chunk.js",
-    "main.js.map": "/wave-portal/static/js/main.82711927.chunk.js.map",
-    "runtime-main.js": "/wave-portal/static/js/runtime-main.759e6cf3.js",
-    "runtime-main.js.map": "/wave-portal/static/js/runtime-main.759e6cf3.js.map",
-    "static/js/2.5e8f7365.chunk.js": "/wave-portal/static/js/2.5e8f7365.chunk.js",
-    "static/js/2.5e8f7365.chunk.js.map": "/wave-portal/static/js/2.5e8f7365.chunk.js.map",
+    "main.css": "/wave-portal/static/css/main.59363bcc.css",
+    "main.js": "/wave-portal/static/js/main.06a01c01.js",
     "index.html": "/wave-portal/index.html",
-    "precache-manifest.7bb982a4d829c09182739f0c2ee7d137.js": "/wave-portal/precache-manifest.7bb982a4d829c09182739f0c2ee7d137.js",
-    "service-worker.js": "/wave-portal/service-worker.js",
-    "static/css/main.0e632e19.chunk.css.map": "/wave-portal/static/css/main.0e632e19.chunk.css.map"
+    "main.59363bcc.css.map": "/wave-portal/static/css/main.59363bcc.css.map",
+    "main.06a01c01.js.map": "/wave-portal/static/js/main.06a01c01.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.759e6cf3.js",
-    "static/js/2.5e8f7365.chunk.js",
-    "static/css/main.0e632e19.chunk.css",
-    "static/js/main.82711927.chunk.js"
+    "static/css/main.59363bcc.css",
+    "static/js/main.06a01c01.js"
   ]
 }
